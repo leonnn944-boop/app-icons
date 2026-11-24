@@ -1,0 +1,12 @@
+{
+  "name": "決策輔助系統",
+  "short_name": "決策輔助系統",
+  "start_url": "./decision.html?go=1",
+  "display": "browser",
+  "background_color": "#081b25",
+  "theme_color": "#081b25",
+  "icons": [
+    { "src": "./decision-ios-180.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "./decision-ios-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}

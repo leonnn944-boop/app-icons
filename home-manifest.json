@@ -1,0 +1,12 @@
+{
+  "name": "居家管理系統",
+  "short_name": "居家管理系統",
+  "start_url": "./home.html?go=1",
+  "display": "browser",
+  "background_color": "#2f251e",
+  "theme_color": "#2f251e",
+  "icons": [
+    { "src": "./home-ios-180.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "./home-ios-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
